@@ -9,4 +9,3 @@ $(prom): $(obj)
 	$(cc) -c $< -o $@
 clean:
 	rm -rf $(obj) $(prom)
-
