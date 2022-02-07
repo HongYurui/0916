@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-   Time t;
-   ++t;
-   cout << t.get(); 
+	Time t;
+	++t;
+	cout << t.get(); 
 }
